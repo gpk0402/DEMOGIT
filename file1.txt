@@ -1,1 +1,2 @@
-This is file 1
+This is file 1.
+Now this file is edited in master branch commit 2.
